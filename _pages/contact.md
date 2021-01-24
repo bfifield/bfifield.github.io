@@ -5,4 +5,4 @@ permalink: /contact/
 author_profile: true
 ---
 
-**Email**: echo cfogjgjfme@hnbjm.dpn | tr '[b-{]' '[a-z]'
+**Email**: `echo cfogjgjfme@hnbjm.dpn | tr '[b-{]' '[a-z]'`
