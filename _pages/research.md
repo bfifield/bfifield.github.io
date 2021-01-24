@@ -27,7 +27,10 @@ Administrative Records**](https://imai.fas.harvard.edu/research/files/linkage.pd
 with [Ted Enamorado](https://www.tedenamorado.com/) and [Kosuke Imai](https://imai.fas.harvard.edu/) (2019). _American Political Science
 Review_, Vol. 113, No. 2, pp. 353-371.
 
-## Other Writing
+## Other Writing:
+[**Racial Justice Demands Every Vote be Counted**](https://www.aclu.org/report/racial-justice-demands-every-vote-counted)
+(2020). _American Civil Liberties Union_.
+
 [**Empirical and Computational Methods for Electoral Politics**](/files/dissertation.pdf)
 (2018). PhD Thesis, _Department of Politics, Princeton University_.
 
