@@ -13,6 +13,8 @@ with [Michael Higgins](http://www-personal.k-state.edu/~mikehiggins/), [Kosuke I
 of Computational and Graphical Statistics_, Vol. 28, No. 4,
 pp. 715-728.
 
+* [Context on the Cho and Liu (2018) and Adler and Wang (2019) exchange](/cho_adler_exchange/)
+
 [**The Essential Role of Empirical Validation in Legislative Redistricting Simulation**](https://imai.fas.harvard.edu/research/files/enumerate.pdf)
 ([Replication Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/NH4CRS)),
 with [Kosuke Imai](https://imai.fas.harvard.edu/), [Jun Kawahara](http://www.lab2.kuis.kyoto-u.ac.jp/jkawahara/index-e.html), and [Christopher Kenny](https://scholar.harvard.edu/christopherkenny)
