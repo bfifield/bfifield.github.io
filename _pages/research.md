@@ -28,7 +28,7 @@ with [Ted Enamorado](https://www.tedenamorado.com/) and [Kosuke Imai](https://im
 Review_, Vol. 113, No. 2, pp. 353-371.
 
 ## Other Writing:
-[**Racial Justice Demands Every Vote be Counted**](https://www.aclu.org/report/racial-justice-demands-every-vote-counted)
+[**Racial Justice Demands That Every Vote is Counted**](https://www.aclu.org/report/racial-justice-demands-every-vote-counted)
 (2020). _American Civil Liberties Union_.
 
 [**Empirical and Computational Methods for Electoral Politics**](/files/dissertation.pdf)
