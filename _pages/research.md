@@ -27,7 +27,7 @@ with [Ted Enamorado](https://www.tedenamorado.com/) and [Kosuke Imai](https://im
 Review_, Vol. 113, No. 2, pp. 353-371.
 
 ## Other Writing
-**Empirical and Computational Methods for Electoral Politics**
+[**Empirical and Computational Methods for Electoral Politics**](/files/dissertation.pdf)
 (2018). PhD Thesis, _Department of Politics, Princeton University_.
 
 [**User’s Guide and Codebook for the ANES 2016 Time Series Voter
