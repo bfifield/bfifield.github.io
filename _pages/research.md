@@ -12,7 +12,6 @@ author_profile: true
 with [Michael Higgins](http://www-personal.k-state.edu/~mikehiggins/), [Kosuke Imai](https://imai.fas.harvard.edu/), and Alexander Tarr (2020). _Journal
 of Computational and Graphical Statistics_, Vol. 28, No. 4,
 pp. 715-728.
-
 * [Context on the Cho and Liu (2018) and Adler and Wang (2019) exchange](/cho_adler_exchange/)
 
 [**The Essential Role of Empirical Validation in Legislative Redistricting Simulation**](https://imai.fas.harvard.edu/research/files/enumerate.pdf)

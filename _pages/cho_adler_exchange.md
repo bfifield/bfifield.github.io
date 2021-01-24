@@ -13,4 +13,4 @@ Below are links to previous drafts of "[Automated Redistricting Simulation Using
 * [December 2014](/files/redist-December16-2014.pdf)
 * [March 2017](redist-March15-2017.pdf)
 
-![](/files/sims.png)
+![](/files/sims.jpeg)
