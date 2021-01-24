@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Ben Fifield"
   avatar           : "profile.png"
-  bio              : "Data Scientist, ACLU Legal Analytics"
+  bio              : "Data Scientist, ACLU"
   location         : "Vancouver, BC"
-  employer         : "American Civil Liberties Union"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=eac9ErsAAAAJ&hl=en&oi=ao"
   email            : 
