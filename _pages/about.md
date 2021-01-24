@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About - Ben Fifield"
-excerpt: "About me"
+title: "About Me"
+excerpt: "About - Ben Fifield"
 author_profile: true
 redirect_from: 
   - /about/
