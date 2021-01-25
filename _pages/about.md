@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a data scientist in the Legal Analytics group at the American Civil Liberties Union, where I support the ACLU’s litigation and advocacy around the 2020 Census and redistricting cycle. You can read more about some of my work at the ACLU [here](https://www.aclu.org/report/racial-justice-demands-every-vote-counted).
+Hello! I am a data scientist in the Legal Analytics group at the American Civil Liberties Union, where I support the ACLU’s litigation and advocacy around the 2020 Census and redistricting cycle. You can read about some of my work at the ACLU [here](https://www.aclu.org/report/racial-justice-demands-every-vote-counted).
 
 I received my PhD from the Department of Politics at Princeton University after defending my dissertation in November 2018, where I studied statistical and social science methodology with applications in legislative redistricting, electoral politics, and political targeting. My research has been published in the American Political Science Review, the Journal of Computational and Graphical Statistics, and Statistics and Public Policy. 
 
