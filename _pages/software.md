@@ -14,7 +14,7 @@ redist is a publicly available R package that enables researchers to statistical
 
 Type <code>install.packages("redist")</code> to install in R. Please also see the <a href = "https://github.com/redistricting/redist">redist GitHub page</a> for the most stable development release.<br>
 
-</details><br>
+</details>
 
 <details>
 <summary><a href = "https://cran.r-project.org/web/packages/fastLink/"><b>fastLink: Fast Probabilistic Record Linkage</b></a> (with <a href = "">Ted Enamorado</a> and <a href = "">Kosuke Imai</a>)</summary>
@@ -24,7 +24,7 @@ fastLink is a publicly available R package that enables researchers to merge two
 
 Type <code>install.packages("fastLink")</code> to install in R. Please also see the <a href = "https://github.com/kosukeimai/fastLink">fastLink Github page</a> for the most stable development release.<br>
 
-</details><br>
+</details>
 
 <details>
 <summary><a href = "https://cran.r-project.org/web/packages/hettx/"><b>hettx: Detecting and Measuring Treatment Effect Variation</b></a> (with <a href = "https://sites.google.com/site/pengdingpku/">Peng Ding</a>, <a href = "https://gsppi.berkeley.edu/avi-feller/">Avi Feller</a>, and <a href = "https://scholar.harvard.edu/lmiratrix/home">Luke Miratrix</a>)</summary>
