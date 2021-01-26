@@ -14,7 +14,7 @@ redist is a publicly available R package that enables researchers to statistical
 
 Type <code>install.packages("redist")</code> to install in R. Please also see the <a href = "https://github.com/redistricting/redist">redist GitHub page</a> for the most stable development release.<br>
 
-</details>
+</details><br>
 
 <details>
 <summary><a href = "https://cran.r-project.org/web/packages/fastLink/"><b>fastLink: Fast Probabilistic Record Linkage</b></a> (with <a href = "">Ted Enamorado</a> and <a href = "">Kosuke Imai</a>)</summary>
@@ -24,13 +24,13 @@ fastLink is a publicly available R package that enables researchers to merge two
 
 Type <code>install.packages("fastLink")</code> to install in R. Please also see the <a href = "https://github.com/kosukeimai/fastLink">fastLink Github page</a> for the most stable development release.<br>
 
-</details>
+</details><br>
 
 <details>
 <summary><a href = "https://cran.r-project.org/web/packages/hettx/"><b>hettx: Detecting and Measuring Treatment Effect Variation</b></a> (with <a href = "https://sites.google.com/site/pengdingpku/">Peng Ding</a>, <a href = "https://gsppi.berkeley.edu/avi-feller/">Avi Feller</a>, and <a href = "https://scholar.harvard.edu/lmiratrix/home">Luke Miratrix</a>)</summary>
 <br>
 
-hettx is a publicly available R package that implements methods developed by Ding, Feller, and Miratrix (JRSS-B, 2016)  ''<a href = "https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/rssb.12124">Randomization Inference for Treatment Effect Variation</a>'',  and Ding, Feller, and Miratrix (JASA, 2019) ''<a href = "https://www.tandfonline.com/doi/abs/10.1080/01621459.2017.1407322?journalCode=uasa20">Decomposing Treatment Effect Variation</a>'',  for testing whether there is unexplained variation in treatment effects across observations. The package includes wrapper functions implementing the proposed methods, as well as helper functions for analyzing and visualizing the results of the test.
+hettx is a publicly available R package that implements methods developed by Ding, Feller, and Miratrix (JRSS-B, 2016)  ''<a href = "https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/rssb.12124">Randomization Inference for Treatment Effect Variation</a>'',  and Ding, Feller, and Miratrix (JASA, 2019) ''<a href = "https://www.tandfonline.com/doi/abs/10.1080/01621459.2017.1407322?journalCode=uasa20">Decomposing Treatment Effect Variation</a>'',  for testing whether there is unexplained variation in treatment effects across observations. The package includes wrapper functions implementing the proposed methods, as well as helper functions for analyzing and visualizing the results of the test.<br><br>
 
 Type <code>install.packages(“hettx”)</code> to install in R. Please also see the <a href = "https://github.com/bfifield/hettx">hettx Github Page</a> for the most stable development release.<br>
 
