@@ -7,11 +7,14 @@ author_profile: true
 
 ## R Packages:
 
-[**redist: Computational Algorithms for Redistricting Simulation**](http://cran.r-project.org/web/packages/redist/) (with [Christopher T. Kenny](https://scholar.harvard.edu/christopherkenny/home), [Cory McCartan](https://imai.fas.harvard.edu/research/SMCredist.html), Alexander Tarr, and [Kosuke Imai](https://imai.fas.harvard.edu/))
+<details>
+<summary>[**redist: Computational Algorithms for Redistricting Simulation**](http://cran.r-project.org/web/packages/redist/) (with [Christopher T. Kenny](https://scholar.harvard.edu/christopherkenny/home), [Cory McCartan](https://corymccartan.github.io/), Alexander Tarr, and [Kosuke Imai](https://imai.fas.harvard.edu/))</summary>
 
 redist is a publicly available R package that enables researchers to statistically simulate congressional redistricting plans using Markov chain Monte Carlo and Sequential Monte Carlo techniques. This includes the implementation of substantive constraints in the redistricting process such as geographic compactness and population parity requirements, as well as efficient simulation methods such as simulated tempering algorithms. Tools for analysis such as inverse probability reweighting and plotting functionality are included. The package implements methods found in Fifield, Higgins, Imai, and Tarr (JCGS, 2020), "[Automated Redistricting Simulation Using Markov Chain Monte Carlo](https://imai.fas.harvard.edu/research/files/redist.pdf)," Fifield, Imai, Kawahara, and Kenny (SPP, 2020), “[The Essential Role of Empirical Validation in Legislative Redistricting Simulation](https://imai.fas.harvard.edu/research/files/enumerate.pdf)”, and McCartan and Imai, “[Sequential Monte Carlo for Sampling Balanced and Compact Redistricting Plans](https://imai.fas.harvard.edu/research/files/SMCredist.pdf)“. 
 
 Type `install.packages("redist")` to install in R. Please also see the [redist GitHub page](https://github.com/redistricting/redist) for the most stable development release.
+
+</details>
 
 [**fastLink: Fast Probabilistic Record Linkage**](https://cran.r-project.org/web/packages/fastLink/) (with [Ted Enamorado](https://www.tedenamorado.com/) and [Kosuke Imai](https://imai.fas.harvard.edu/))
 
