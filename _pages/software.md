@@ -14,7 +14,7 @@ redist is a publicly available R package that enables researchers to statistical
 
 Type <code>install.packages("redist")</code> to install in R. Please also see the <a href = "https://github.com/redistricting/redist">redist GitHub page</a> for the most stable development release.<br>
 
-</details>
+</details><br>
 
 <details>
 <summary><a href = "https://cran.r-project.org/web/packages/fastLink/"><b>fastLink: Fast Probabilistic Record Linkage</b></a> (with <a href = "">Ted Enamorado</a> and <a href = "">Kosuke Imai</a>)</summary>
