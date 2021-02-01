@@ -17,7 +17,7 @@ Type <code>install.packages("redist")</code> to install in R. Please also see th
 </details>
 
 <details>
-<summary><a href = "https://cran.r-project.org/web/packages/fastLink/"><b>fastLink: Fast Probabilistic Record Linkage</b></a> (with <a href = "">Ted Enamorado</a> and <a href = "">Kosuke Imai</a>)</summary>
+<summary><a href = "https://cran.r-project.org/web/packages/fastLink/"><b>fastLink: Fast Probabilistic Record Linkage</b></a> (with <a href = "https://www.tedenamorado.com/">Ted Enamorado</a> and <a href = "https://imai.fas.harvard.edu/">Kosuke Imai</a>)</summary>
 <br>
 
 fastLink is a publicly available R package that enables researchers to merge two data sets using a fast implementation of the Fellegi-Sunter probabilistic record linkage model that allows for missing data and the inclusion of auxiliary information. This includes functionalities to conduct a merge of two data sets under the Fellegi-Sunter model using the Expectation-Maximization algorithm. In addition, tools for preparing, adjusting, and summarizing data merges are included. The package implements methods developed in Enamorado, Fifield, and Imai (APSR, 2019), "<a href = "https://imai.fas.harvard.edu/research/files/linkage.pdf">Using a Probabilistic Model to Assist Merging of Large-scale Administrative Records</a>."<br><br>
