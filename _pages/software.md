@@ -14,7 +14,7 @@ redist is a publicly available R package that enables researchers to statistical
 
 Type <code>install.packages("redist")</code> to install in R. Please also see the <a href = "https://github.com/redistricting/redist">redist GitHub page</a> for the most stable development release.<br>
 
-</details>[![CRAN\_Status\_Badge](https://www.r-pkg.org/badges/version-last-release/redist)](https://cran.r-project.org/package=redist)![CRAN downloads](http://cranlogs.r-pkg.org/badges/grand-total/redist)
+</details>[![CRAN\_Status\_Badge](https://www.r-pkg.org/badges/version-last-release/redist)](https://cran.r-project.org/package=redist) ![CRAN downloads](http://cranlogs.r-pkg.org/badges/grand-total/redist)
 
 <details>
 <summary><a href = "https://cran.r-project.org/web/packages/fastLink/"><b>fastLink: Fast Probabilistic Record Linkage</b></a> (with <a href = "https://www.tedenamorado.com/">Ted Enamorado</a> and <a href = "https://imai.fas.harvard.edu/">Kosuke Imai</a>)</summary>
@@ -24,7 +24,7 @@ fastLink is a publicly available R package that enables researchers to merge two
 
 Type <code>install.packages("fastLink")</code> to install in R. Please also see the <a href = "https://github.com/kosukeimai/fastLink">fastLink Github page</a> for the most stable development release.<br>
 
-</details>
+</details>[![CRAN Version](https://www.r-pkg.org/badges/version-last-release/fastLink)](https://CRAN.R-project.org/package=fastLink) ![CRAN downloads](http://cranlogs.r-pkg.org/badges/grand-total/fastLink)
 
 <details>
 <summary><a href = "https://cran.r-project.org/web/packages/hettx/"><b>hettx: Detecting and Measuring Treatment Effect Variation</b></a> (with <a href = "https://sites.google.com/site/pengdingpku/">Peng Ding</a>, <a href = "https://gsppi.berkeley.edu/avi-feller/">Avi Feller</a>, and <a href = "https://scholar.harvard.edu/lmiratrix/home">Luke Miratrix</a>)</summary>
@@ -34,7 +34,7 @@ hettx is a publicly available R package that implements methods developed by Din
 
 Type <code>install.packages(“hettx”)</code> to install in R. Please also see the <a href = "https://github.com/bfifield/hettx">hettx Github Page</a> for the most stable development release.<br>
 
-</details>
+</details>[![CRAN Version](https://www.r-pkg.org/badges/version-last-release/hettx)](https://CRAN.R-project.org/package=hettx) [![](https://cranlogs.r-pkg.org/badges/grand-total/hettx)](https://cran.r-project.org/package=hettx) 
 
 ## Shiny Apps:
 
