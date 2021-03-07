@@ -36,5 +36,5 @@ Review_, Vol. 113, No. 2, pp. 353-371.
 
 [**User’s Guide and Codebook for the ANES 2016 Time Series Voter
 Validation Supplemental Data**](https://electionstudies.org/wp-content/uploads/2018/03/anes_timeseries_2016voteval_userguidecodebook.pdf) ([link to data](https://electionstudies.org/data-center/2016-time-series-study/)), with [Ted Enamorado](https://www.tedenamorado.com/) and
-[Kosuke Imai](https://imai.fas.harvard.edu/). 
+[Kosuke Imai](https://imai.fas.harvard.edu/) (2018). 
 
