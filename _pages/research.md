@@ -6,13 +6,39 @@ author_profile: true
 ---
 
 ## Publications:
+<details>
+<summary>
 [**Automated Redistricting Simulation using Markov Chain Monte Carlo**](https://imai.fas.harvard.edu/research/files/redist.pdf)
 ([Supplementary Data](https://imai.fas.harvard.edu/research/files/redist-appendix.pdf),
 [Replication Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VCIW2I)),
 with [Michael Higgins](http://www-personal.k-state.edu/~mikehiggins/), [Kosuke Imai](https://imai.fas.harvard.edu/), and Alexander Tarr (2020). _Journal
 of Computational and Graphical Statistics_, Vol. 28, No. 4,
 pp. 715-728.
+</summary>
+<br>
+Legislative redistricting is a critical element of representative
+democracy. A number of political scientists have used simulation
+methods to sample redistricting plans under various constraints in
+order to assess their impact on partisanship and other aspects of
+representation. However, while many optimization algorithms have been
+proposed, surprisingly few simulation methods exist in the published
+scholarship. Furthermore, the standard algorithm has no theoretical
+justification, scales poorly, and is unable to incorporate fundamental
+constraints required by redistricting processes in the real world. To
+fill this gap, we formulate redistricting as a graph-cut problem and
+for the first time in the literature propose a new automated
+redistricting simulator based on Markov chain Monte Carlo. The
+proposed algorithm can incorporate contiguity and equal population
+constraints at the same time. We apply simulated and parallel
+tempering to improve the mixing of the resulting Markov chain. Through
+a small-scale validation study, we show that the proposed algorithm
+can approximate a target distribution more accurately than the
+standard algorithm. We also apply the proposed methodology to data
+from Pennsylvania to demonstrate the applicability of our algorithm to
+real-world redistricting problems. The <a href="http://cran.r-project.org/web/packages/redist/">open-source software</a> is available for implementing the proposed methodology.
+<br>
 * [Context on the Cho and Liu (2018) and Adler and Wang (2019) exchange](/cho_adler_exchange/)
+</details>
 
 [**The Essential Role of Empirical Validation in Legislative Redistricting Simulation**](https://imai.fas.harvard.edu/research/files/enumerate.pdf)
 ([Replication Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/NH4CRS)),
