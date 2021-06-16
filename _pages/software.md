@@ -24,6 +24,8 @@ fastLink is a publicly available R package that enables researchers to merge two
 
 Type <code>install.packages("fastLink")</code> to install in R. Please also see the <a href = "https://github.com/kosukeimai/fastLink">fastLink Github page</a> for the most stable development release.<br>
 
+fastLink received the 2021 Statistical Software award from the Society for Political Methodology. The award citation can be found <a href = "https://polmeth.org/news/2021-statistical-software-award">here</a>.<br>
+
 </details>[![CRAN Version](https://www.r-pkg.org/badges/version-last-release/fastLink)](https://CRAN.R-project.org/package=fastLink) ![CRAN downloads](http://cranlogs.r-pkg.org/badges/grand-total/fastLink)
 
 <details>
