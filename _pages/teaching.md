@@ -13,6 +13,6 @@ I have served as an assistant instructor for two courses in the Department of Po
 
 **As Instructor:**
 
-I have twice taught the graduate student "boot camp" for the statistical programming language R in the Department of Politics at Princeton University:
+I have taught the graduate student "boot camp" for the statistical programming language R in the Department of Politics at Princeton University:
 * [Statistical Programming Camp (January 2014 - with Katherine McCabe)](/files/ProgrammingCamp2014.pdf)
 * [Statistical Programming Camp (January 2013 - with Alex Ruder)](/files/ProgrammingCamp2013.pdf)
