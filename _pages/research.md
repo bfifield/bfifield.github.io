@@ -16,7 +16,7 @@ pp. 715-728.
 
 [**The Essential Role of Empirical Validation in Legislative Redistricting Simulation**](https://imai.fas.harvard.edu/research/files/enumerate.pdf)
 ([Replication Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/NH4CRS)),
-with [Kosuke Imai](https://imai.fas.harvard.edu/), [Jun Kawahara](http://www.lab2.kuis.kyoto-u.ac.jp/jkawahara/index-e.html), and [Christopher Kenny](https://scholar.harvard.edu/christopherkenny)
+with [Kosuke Imai](https://imai.fas.harvard.edu/), [Jun Kawahara](http://www.lab2.kuis.kyoto-u.ac.jp/jkawahara/index-e.html), and [Christopher Kenny](https://www.christophertkenny.com)
 (2020). _Statistics and Public Policy_, Vol. 7, No. 1, pp. 52-68.
 
 [**Using a Probabilistic Model to Assist Merging of Large-scale
