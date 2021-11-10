@@ -7,7 +7,7 @@ author_profile: true
 
 ## Publications:
 [**Automated Redistricting Simulation using Markov Chain Monte Carlo**](https://imai.fas.harvard.edu/research/files/redist.pdf)
-([Supplementary Data](https://imai.fas.harvard.edu/research/files/redist-appendix.pdf),
+([Supplementary Appendix](https://imai.fas.harvard.edu/research/files/redist-appendix.pdf),
 [Replication Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VCIW2I)),
 with [Michael Higgins](http://www-personal.k-state.edu/~mikehiggins/), [Kosuke Imai](https://imai.fas.harvard.edu/), and Alexander Tarr (2020). _Journal
 of Computational and Graphical Statistics_, Vol. 28, No. 4,
