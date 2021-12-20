@@ -12,7 +12,7 @@ author_profile: true
 <br>
 redist is a publicly available R package that enables researchers to statistically simulate congressional redistricting plans using Markov chain Monte Carlo and Sequential Monte Carlo techniques. This includes the implementation of substantive constraints in the redistricting process such as geographic compactness and population parity requirements, as well as efficient simulation methods such as simulated tempering algorithms. Tools for analysis such as inverse probability reweighting and plotting functionality are included. The package implements methods found in Fifield, Higgins, Imai, and Tarr (JCGS, 2020), "<a href = "https://imai.fas.harvard.edu/research/files/redist.pdf">Automated Redistricting Simulation Using Markov Chain Monte Carlo</a>," Fifield, Imai, Kawahara, and Kenny (SPP, 2020), “<a href = "https://imai.fas.harvard.edu/research/files/enumerate.pdf">The Essential Role of Empirical Validation in Legislative Redistricting Simulation </a>”, and McCartan and Imai, “<a href = "https://imai.fas.harvard.edu/research/files/SMCredist.pdf">Sequential Monte Carlo for Sampling Balanced and Compact Redistricting Plans</a>“. <br><br>
 
-Type <code>install.packages("redist")</code> to install in R. Please also see the <a href = "https://github.com/redistricting/redist">redist GitHub page</a> for the most stable development release.<br>
+Type <code>install.packages("redist")</code> to install in R. Please also see the <a href = "https://github.com/alarm-redist/redist">redist GitHub page</a> for the most stable development release.<br>
 
 </details>[![CRAN\_Status\_Badge](https://www.r-pkg.org/badges/version-last-release/redist)](https://cran.r-project.org/package=redist) ![CRAN downloads](http://cranlogs.r-pkg.org/badges/grand-total/redist)
 
@@ -38,7 +38,17 @@ hettx is a publicly available R package that implements methods developed by Din
 
 Type <code>install.packages(“hettx”)</code> to install in R. Please also see the <a href = "https://github.com/bfifield/hettx">hettx Github Page</a> for the most stable development release.<br>
 
-</details>[![CRAN Version](https://www.r-pkg.org/badges/version-last-release/hettx)](https://CRAN.R-project.org/package=hettx) [![](https://cranlogs.r-pkg.org/badges/grand-total/hettx)](https://cran.r-project.org/package=hettx) 
+</details>[![CRAN Version](https://www.r-pkg.org/badges/version-last-release/hettx)](https://CRAN.R-project.org/package=hettx) [![](https://cranlogs.r-pkg.org/badges/grand-total/hettx)](https://cran.r-project.org/package=hettx)
+
+<details>
+<summary><a href = "https://cran.r-project.org/web/packages/redistmetrics/"><b>redistmetrics: Redistricting Metrics</b></a>(with <a href = "https://www.christophertkenny.com">Christopher Kenny</a>, <a href = "https://corymccartan.github.io/">Cory McCartan</a>, and <a href = "https://imai.fas.harvard.edu/">Kosuke Imai</a>)</summary>
+<br>
+
+redistmetrics is a publicly available R package providing reliable and flexible tools for scoring redistricting plans using common measures and metrics. These functions provide key direct access to tools useful for non-simulation analyses of redistricting plans, such as for measuring compactness or partisan fairness. Tools are designed to work with the redist package seamlessly.
+
+Type <code>install.packages("redistmetrics")</code> to install in R. Please also see the <a href = "https://github.com/alarm-redist/redistmetrics"> redistmetrics GitHub page</a> for the most stable development release.<br>
+
+</details>[![CRAN\_Status\_Badge](https://www.r-pkg.org/badges/version-last-release/redistmetrics)](https://cran.r-project.org/package=redistmetrics) ![CRAN downloads](http://cranlogs.r-pkg.org/badges/grand-total/redistmetrics)
 
 ## Shiny Apps:
 
