@@ -38,7 +38,7 @@ hettx is a publicly available R package that implements methods developed by Din
 
 Type <code>install.packages(“hettx”)</code> to install in R. Please also see the <a href = "https://github.com/bfifield/hettx">hettx Github Page</a> for the most stable development release.<br>
 
-</details>[![CRAN Version](https://www.r-pkg.org/badges/version-last-release/hettx)](https://CRAN.R-project.org/package=hettx) [![](https://cranlogs.r-pkg.org/badges/grand-total/hettx)](https://cran.r-project.org/package=hettx)
+</details>[![CRAN Version](https://www.r-pkg.org/badges/version-last-release/hettx)](https://CRAN.R-project.org/package=hettx) ![CRAN downloads](https://cranlogs.r-pkg.org/badges/grand-total/hettx)
 
 <details>
 <summary><a href = "https://cran.r-project.org/web/packages/redistmetrics/"><b>redistmetrics: Redistricting Metrics</b></a> (with <a href = "https://www.christophertkenny.com">Christopher Kenny</a>, <a href = "https://corymccartan.github.io/">Cory McCartan</a>, and <a href = "https://imai.fas.harvard.edu/">Kosuke Imai</a>)</summary>
