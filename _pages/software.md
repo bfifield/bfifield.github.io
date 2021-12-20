@@ -41,7 +41,7 @@ Type <code>install.packages(“hettx”)</code> to install in R. Please also see
 </details>[![CRAN Version](https://www.r-pkg.org/badges/version-last-release/hettx)](https://CRAN.R-project.org/package=hettx) [![](https://cranlogs.r-pkg.org/badges/grand-total/hettx)](https://cran.r-project.org/package=hettx)
 
 <details>
-<summary><a href = "https://cran.r-project.org/web/packages/redistmetrics/"><b>redistmetrics: Redistricting Metrics</b></a>(with <a href = "https://www.christophertkenny.com">Christopher Kenny</a>, <a href = "https://corymccartan.github.io/">Cory McCartan</a>, and <a href = "https://imai.fas.harvard.edu/">Kosuke Imai</a>)</summary>
+<summary><a href = "https://cran.r-project.org/web/packages/redistmetrics/"><b>redistmetrics: Redistricting Metrics</b></a> (with <a href = "https://www.christophertkenny.com">Christopher Kenny</a>, <a href = "https://corymccartan.github.io/">Cory McCartan</a>, and <a href = "https://imai.fas.harvard.edu/">Kosuke Imai</a>)</summary>
 <br>
 
 redistmetrics is a publicly available R package providing reliable and flexible tools for scoring redistricting plans using common measures and metrics. These functions provide key direct access to tools useful for non-simulation analyses of redistricting plans, such as for measuring compactness or partisan fairness. Tools are designed to work with the redist package seamlessly.
