@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ben Fifield"
 title_separator          : "-"
 name                     : &name "Ben Fifield"
-description              : &description "Senior Data Scientist - ACLU Legal Analytics"
+description              : &description "Research Scientist - Meta"
 url                      : https://bfifield.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bfifield/bfifield.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ben Fifield"
   avatar           : "ben.png"
-  bio              : "Senior Data Scientist, ACLU"
+  bio              : "Research Scientist, Meta"
   location         : "Boston, MA"
   employer         : 
   pubmed           : 
