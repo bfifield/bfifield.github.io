@@ -28,8 +28,12 @@ with [Ted Enamorado](https://www.tedenamorado.com/) and [Kosuke Imai](https://im
 Review_, Vol. 113, No. 2, pp. 353-371.
 
 ## Other Writing:
-[**Racial Justice Demands That Every Vote is Counted**](https://www.aclu.org/report/racial-justice-demands-every-vote-counted)
-(2020). _American Civil Liberties Union_.
+[**Introducing the Ground Truth Maturity Framework for Assessing and Improving Ground Truth Data Quality**](https://research.facebook.com/blog/2022/8/-introducing-the-ground-truth-maturity-framework-for-assessing-and-improving-ground-truth-data-quality/),
+with Yilin Zhang, Aude
+Hofleitner, Hannah Furnas, Paul Chung, Wesley Lee, and Xu Chen (2022). _Meta Research_.
+
+[**Racial Justice Demands That Every Vote is Counted**](https://www.aclu.org/report/racial-justice-demands-every-vote-counted),
+with Lucia Tian (2020). _American Civil Liberties Union_.
 
 [**Empirical and Computational Methods for Electoral Politics**](/files/dissertation.pdf)
 (2018). PhD Thesis, _Department of Politics, Princeton University_.
