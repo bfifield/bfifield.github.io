@@ -27,6 +27,10 @@ Administrative Records**](https://imai.fas.harvard.edu/research/files/linkage.pd
 with [Ted Enamorado](https://www.tedenamorado.com/) and [Kosuke Imai](https://imai.fas.harvard.edu/) (2019). _American Political Science
 Review_, Vol. 113, No. 2, pp. 353-371.
 
+## Working Papers:
+**Ground Truth Maturity Framework for Assessing and Improving Ground
+Truth Data**, with Yilin Zhang, Weijie Zhou, Wesley Lee, Xu Chen, Pil H. Chung, Aude Hofleitner, Hannah Furnas, and Christine Agrawal.
+
 ## Other Writing:
 [**Introducing the Ground Truth Maturity Framework for Assessing and Improving Ground Truth Data Quality**](https://research.facebook.com/blog/2022/8/-introducing-the-ground-truth-maturity-framework-for-assessing-and-improving-ground-truth-data-quality/),
 with Yilin Zhang, Aude
