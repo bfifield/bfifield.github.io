@@ -50,12 +50,3 @@ Type <code>install.packages("redistmetrics")</code> to install in R. Please also
 
 </details>[![CRAN\_Status\_Badge](https://www.r-pkg.org/badges/version-last-release/redistmetrics)](https://cran.r-project.org/package=redistmetrics) ![CRAN downloads](http://cranlogs.r-pkg.org/badges/grand-total/redistmetrics)
 
-## Shiny Apps:
-
-<details>
-<summary><a href = "https://randomizeauthor.shinyapps.io/shiny/"><b>randomizeAuthor</b></a> (with <a href = "https://www.yangyangzhou.com/">Yang-Yang Zhou</a> and <a href = "https://evanlieberman.org/">Evan Lieberman</a>)</summary>
-<br>
-
-randomizeAuthor is an online Shiny App utility for transparently randomizing author order for academic articles while creating a common, replicable record of the randomization. To ensure non-manipulable replicability, the app queries the random.org API for a random seed that guarantees replicability of the randomization, and it automatically sends an email record of the input names and their order along with the random seed value and its source. 
-
-</details>
