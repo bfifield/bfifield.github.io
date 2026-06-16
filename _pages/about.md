@@ -14,4 +14,4 @@ Previously, I was a research scientist on the Demography and Survey Science team
 
 I have consulted for the Commonwealth of Pennsylvania on their 2018 remedial redistricting, and I am an affiliated researcher at the [Institute for Quantitative Social Science](https://www.iq.harvard.edu/) at Harvard University, where I am also a member of the [ALARM (Algorithm-Assisted Redistricting Methodology) Project](https://alarm-redist.github.io/). Prior to graduate school, I was a researcher at the Democratic National Committee.
 
-You can find my publications and working papers on my [research page](/research/), and my Github page can be viewed [here](https://github.com/bfifield). Most importantly, my dog's Instagram page can be found [here](https://www.instagram.com/handsomecharliepup/).
+You can find my publications and working papers on my [research page](/research/), and my Github page can be viewed [here](https://github.com/bfifield). 
